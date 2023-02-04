@@ -1,0 +1,6 @@
+Library
+    structure HELLO_SMLNJ
+is
+    $cml/basis.cm
+    $cml/cml.cm
+    hello_smlnj.sml
